@@ -1,8 +1,9 @@
+<br>Hello World!<\br>
 - 👋 Hi, I’m Lorine @lorine329
-- 👀 I’m interested in Data Science, Data Analysis, and ... Coding! 
-- 🌱 I’m currently learning Management Analytics @ McGill, I have also completed my Statistics and Computer Science bachelor degree at McGill
+- 👀 I’m interested in Data Science, Machine Learning, Project Design, and ... Programming! 
+- 🌱 I’m currently pursuing my Master's degree in Management Analytics @ McGill, I have also completed Statistics and Computer Science bachelor's degree @ McGill
 - 📫 If you have any questions, feel free to contact me via email: gaoge71075@gmail.com
-- ⚡ Fun fact: Daydreamer
+- ⚡ Fun fact about me? I'm a Daydreamer, so don't try to find me in the daytime🌙.
 
 <!---
 lorine329/lorine329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
