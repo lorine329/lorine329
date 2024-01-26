@@ -1,5 +1,8 @@
-int main() {
-  cout << "Hello World!"
+#include <iostream>
+using namespace std;
+
+void self_introduction() {
+  - cout << "Hello World!"
   - 👋 Hi, I’m Lorine @lorine329
   - 👀 I’m interested in Data Science, Machine Learning, Project Design, and ... Programming! 
   - 🌱 I’m currently pursuing my Master's degree in Management Analytics @ McGill, I have also completed Statistics and Computer Science bachelor's degree @ McGill
@@ -10,4 +13,4 @@ int main() {
   lorine329/lorine329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
   --->
-)
+}
