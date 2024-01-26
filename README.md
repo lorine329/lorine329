@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 void self_introduction() {
   - cout << "Hello World!"
   - 👋 Hi, I’m Lorine @lorine329
