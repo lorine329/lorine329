@@ -1,5 +1,5 @@
 void self_introduction() {
-  - cout << "Hello World!";
+  - cout << "Hello World!" << endl;
   - 👋 Hi, I’m Lorine @lorine329
   - 👀 I’m interested in Data Science, Machine Learning, Project Design, and ... Programming! 
   - 🌱 I’m currently pursuing my Master's degree in Management Analytics @ McGill, I have also completed Statistics and Computer Science bachelor's degree @ McGill
@@ -11,3 +11,5 @@ void self_introduction() {
   You can click the Preview link to take a look at your changes.
   --->
 }
+
+self_introduction();
