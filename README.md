@@ -1,4 +1,4 @@
-<br> Hello World! This is Lorine! <\br>
+<b> Hello World! This is Lorine! </b>
 
 void self_introduction() {
   - cout << "Hello World!" << endl;
